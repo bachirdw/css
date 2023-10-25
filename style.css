@@ -1,0 +1,66 @@
+h1 {
+  color: rgb(182, 66, 33);
+  font: sans-serif;
+}
+p {
+  color: rgb(38, 180, 64);
+  font: small;
+}
+article > p {
+  font-weight: bold;
+  background-color: #333;
+  color: #fff;
+  padding: .5em;
+}
+p {
+  border: 10px solid black;
+  margin: 20px;
+}
+
+
+.rounded {
+  border-radius: 15px;
+}
+
+
+.elliptical {
+  border-radius: 50px / 25px;
+}
+.frist{
+padding-top: 20px; ;
+padding-bottom: 70px
+;}
+.Second{
+  margin-left: 1000px;
+  margin-right: 100px; ;
+}
+.jk p{
+padding-left: 100px;
+}
+#blue-bordered{
+  width: 500px;
+  height: 50px;
+  background: blue;
+}
+#àpropos{
+  float: left;
+}
+div{
+display: block;
+}
+     .ik{
+      width: 550px;
+      height: 50px;
+      border: 1px solid red;
+      display: inline-block;
+     }
+   
+p{
+  color: brown;
+  background-color: violet;
+}
+.navbar{
+text-align: center;
+}
+header {
+  front-family: "roboto", sans-serif;}
